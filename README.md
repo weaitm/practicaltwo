@@ -17,10 +17,8 @@
 удаление БД
 
 ![Пример модели](https://user-images.githubusercontent.com/114491231/203909980-5d808785-0ef4-4d0d-9e31-03e7c44df907.png)
-модел3
+модель
 
-![Пример модели](https://user-images.githubusercontent.com/114491231/203910081-5ef4ff85-71b5-4604-821b-c84cbe6e7b9a.png)
-модель2
 ![Результат работы программы](https://user-images.githubusercontent.com/114491231/203930736-1abb3990-7080-44fa-bb3b-f0150b280800.png)
 результат работы
 
